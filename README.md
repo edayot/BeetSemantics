@@ -12,7 +12,7 @@ Proof of concept semantic highlighter for [beet](https://mcbeet.dev)
 <details>
 	<summary>Why is the highlighting red?</summary>
 
-Make sure that you have disabled both `language-mcfunction` and `Data-pack Helper Plus`
+Make sure that you have disabled both `language-mcfunction` and `Data-pack Helper Plus`.
 </details>
 
 
